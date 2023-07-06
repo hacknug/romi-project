@@ -1,0 +1,1 @@
+import{_ as r}from"./_plugin-vue_export-helper.c27b6911.js";import{o as t,c as o,I as n}from"./entry.fce2d3b5.js";const s={},c={class:"flex-inline px-2 py-1 text-xs text-primary-400 bg-primary-100/25 border border-primary-400 uppercase tracking-wide rounded"};function a(e,_){return t(),o("div",c,[n(e.$slots,"default")])}const d=r(s,[["render",a]]);export{d as default};
