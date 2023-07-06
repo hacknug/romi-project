@@ -1,5 +1,3 @@
-import { defineNuxtConfig } from 'nuxt'
-
 // https://v3.nuxtjs.org/api/configuration/nuxt.config
 export default defineNuxtConfig({
   // app: {
@@ -24,6 +22,7 @@ export default defineNuxtConfig({
     ],
   },
   modules: [
+    '@nuxthq/studio',
     ['@nuxt/content', { documentDriven: true }],
     // ['@nuxt/image-edge'],
     ['@nuxtjs/tailwindcss'],
