@@ -10,7 +10,7 @@
     "@iconify/json": "2.2.87",
     "@nuxt/content": "npm:@nuxt/content-edge@latest",
     "@nuxt/image-edge": "1.0.0-rc.1-28143901.afe4120",
-    "@nuxthq/studio": "0.13.3",
+    "@nuxthq/studio": "0.14.1",
     "@nuxtjs/tailwindcss": "6.8.0",
     "@tailwindcss/aspect-ratio": "0.4.2",
     "@tailwindcss/forms": "0.5.3",
@@ -19,7 +19,7 @@
     "@vueuse/components": "10.2.1",
     "@vueuse/core": "10.2.1",
     "@vueuse/nuxt": "10.2.1",
-    "nuxt": "3.6.2",
+    "nuxt": "3.9.1",
     "tailwindcss-text-fill-stroke": "npm:tailwindcss-text-fill-stroke@beta",
     "unplugin-icons": "0.16.3"
   }
